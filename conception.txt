@@ -1,0 +1,6 @@
+- Faire un tableau
+- Faire la classe Fourmi et la classe Case
+- Création du CSS pour le fond noir et le fond blanc
+//- Générer les couleurs des case aléatoirement
+- Faire une fonction qui renvoie la couleur de la case ou la fourmi est.
+- Faire une fonction pour inverser la couleur de la case ou la fourmi était.
