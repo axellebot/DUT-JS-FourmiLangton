@@ -8,8 +8,8 @@ var mCote = 100; //nb de case en hauteur et largeur
 
 
 function Case(posX, posY, color) {
-    this.x = posX || null;
-    this.y = posY || null;
+    this.x = posX;
+    this.y = posY;
     this.color = color || "white";
     //console.log("New Case in : " + this.x + "   " + this.y + " and the color : " + this.color);
 }
